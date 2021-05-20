@@ -1,0 +1,82 @@
+[{
+    "id": 1,
+    "name": "Cat",
+    "image":"https://ibb.co/Bf0wCJ3",
+    "last_name": "Dumbrall",
+    "email": "rdumbrall0@baidu.com",
+    "gender": "Male",
+    "ip_address": "247.39.211.223"
+  }, {
+    "id": 2,
+    "name": "Dog",
+    "image":"https://ibb.co/0jjkvPT",
+    "last_name": "Pedrielli",
+    "email": "kpedrielli1@loc.gov",
+    "gender": "Agender",
+    "ip_address": "157.108.202.40"
+  }, {
+    "id": 3,
+    "name": "Kangaroo",
+    "image":"",
+    "last_name": "Burchfield",
+    "email": "cburchfield2@histats.com",
+    "gender": "Genderfluid",
+    "ip_address": "84.203.180.111"
+  }, {
+    "id": 4,
+    "name": "Cow",
+    "image":"https://ibb.co/mJt6wwh",
+    "last_name": "Gristwood",
+    "email": "egristwood3@mlb.com",
+    "gender": "Female",
+    "ip_address": "144.214.40.30"
+  }, {
+    "id": 5,
+    "name": "Hen",
+    "image":"https://ibb.co/LrQbx9r",
+    "last_name": "Wride",
+    "email": "iwride4@house.gov",
+    "gender": "Female",
+    "ip_address": "114.42.78.34"
+  }, {
+    "id": 6,
+    "name": "Monkey",
+    "image":"https://ibb.co/qjZn1vc",
+    "last_name": "Espinay",
+    "email": "pespinay5@uol.com.br",
+    "gender": "Non-binary",
+    "ip_address": "65.154.128.176"
+  }, {
+    "id": 7,
+    "name": "Whale",
+    "last_name": "Posthill",
+    "image":"https://ibb.co/D1Y4D28",
+    "email": "oposthill6@devhub.com",
+    "gender": "Genderfluid",
+    "ip_address": "207.74.221.238"
+  }, {
+    "id": 8,
+    "name": "Dolphin",
+    "image":"https://ibb.co/6t9mw5H",
+    "last_name": "Muirhead",
+    "email": "amuirhead7@canalblog.com",
+    "gender": "Genderfluid",
+    "ip_address": "200.254.221.140"
+  }, {
+    "id": 9,
+    "name": "Sea Lion",
+    "image":"https://ibb.co/YkTCyHd",
+    "last_name": "Pratley",
+    "email": "ppratley8@ftc.gov",
+    "gender": "Genderqueer",
+    "ip_address": "86.202.213.7"
+  }, {
+    "id": 10,
+    "name": "Penguin",
+    "image":"https://ibb.co/yP63HdR",
+    "last_name": "Ibbott",
+    "email": "hibbott9@squarespace.com",
+    "gender": "Non-binary",
+    "ip_address": "91.199.102.24"
+  }]
+
